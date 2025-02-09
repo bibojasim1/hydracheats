@@ -16,7 +16,7 @@ If you have any further questions or need support, feel free to reach out to us:
 - **Email:** support@hydracheats.net  
 - **Discord:** [Join our Discord](https://discord.gg/UR6psFPfK9)  
 
-🌐 **Website:** [Visit our website](https://hydracheats.netlify.app)  
+🌐 **Website:** [Visit our website](https://hydracheats.netlify.app/v2)  
 💬 **Discord:** [Join our Discord](https://discord.gg/UR6psFPfK9)  
 
 ---
@@ -32,7 +32,7 @@ If you have any further questions or need support, feel free to reach out to us:
 Hydra is fully compatible with all FiveM servers, and it's designed to ensure that it remains undetectable. We continuously improve Hydra to evade detection from anti-cheat systems, ensuring the best possible user experience. Hydra is regularly updated to stay ahead of the competition and avoid being detected by even the most advanced anti-cheat solutions.  
 
 ## 🚀 Installation  
-1. Download the latest version of Hydra from our [website](https://hydracheats.netlify.app).  
+1. Download the latest version of Hydra from our [website](https://hydracheats.netlify.app/v2).  
 2. Extract the downloaded files.  
 3. Follow the instructions in the `INSTALL.txt` file to complete the installation.  
 4. Start Hydra and enjoy the enhanced FiveM experience!  
