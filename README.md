@@ -14,10 +14,10 @@ HydraCheats is an advanced and powerful cheat designed specifically for FiveM, o
 📧 **Contact Us:**  
 If you have any further questions or need support, feel free to reach out to us:  
 - **Email:** support@hydracheats.net  
-- **Discord:** [Join our Discord](https://discord.gg/hydracheats)  
+- **Discord:** [Join our Discord](https://discord.gg/UR6psFPfK9)  
 
 🌐 **Website:** [Visit our website](https://hydracheats.netlify.app)  
-💬 **Discord:** [Join our Discord](https://discord.gg/hydracheats)  
+💬 **Discord:** [Join our Discord](https://discord.gg/UR6psFPfK9)  
 
 ---
 
