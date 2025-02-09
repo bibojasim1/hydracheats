@@ -63,7 +63,7 @@ Hydra is fully compatible with all FiveM servers, and it's designed to ensure th
 ## 💡 Feature Requests  
 We’re constantly looking to improve Hydra! If you have any ideas or would like to see new features, feel free to submit your suggestions:
 
-- Join our [Discord community](https://discord.gg/hydracheats) and submit your feature requests under the dedicated section.  
+- Join our [Discord community](https://discord.gg/UR6psFPfK9) and submit your feature requests under the dedicated section.  
 
 ---
 
